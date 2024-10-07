@@ -15,7 +15,11 @@
         }, 
         {
             "url": "https://kjxhb.github.io/tvbox/tvbox.json",
-            "name": "自用接口-box"
+            "name": "自用接口-github"
+        },
+        {
+            "url": "https://www.dzxhb.top/tvbox/tvbox.json",
+            "name": "自用接口-备用"
         },
         {
             "url": "https://192.168.1.1/tvbox/tvbox.json",
