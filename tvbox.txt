@@ -18,7 +18,7 @@
             "name": "自用接口-github"
         },
         {
-            "url": "https://www.kjxhb.top/tvbox/tvbox.json",
+            "url": "https://kjxhb.top:8443/tvbox/tvbox.json",
             "name": "自用接口-备用"
         },
         {
