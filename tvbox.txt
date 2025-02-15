@@ -14,12 +14,12 @@
             "name": " 🥞QIST仓库（推荐）"
         }, 
         {
-            "url": "https://kjxhb.github.io/tvbox/tvbox.json",
+            "url": "https://fast.dzxhb.top/raw.githubusercontent.com/kjxhb/tvbox/main/tvbox.json",
             "name": "自用接口-github"
         },
         {
             "url": "https://kjxhb.top:8443/tvbox/tvbox.json",
-            "name": "自用接口-备用"
+            "name": "自用接口-域名"
         },
         {
             "url": "https://192.168.1.1/tvbox/tvbox.json",
