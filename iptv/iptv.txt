@@ -148,9 +148,6 @@ CGTN俄语频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/i
 
 本地-四川,#genre#
 //中央
-CCTV1-测试1,http://www.dzxhb.top:8888/rtp/239.11.0.65:5140
-CCTV1-测试2,http://www.dzxhb.top:1234/rtp/239.11.0.65:5140
-CCTV1-测试3,http://dzxhb.top:1234/rtp/239.11.0.65:5140
 CCTV1,http://192.168.1.1:8888/rtp/239.11.0.65:5140
 CCTV2,http://192.168.1.1:8888/rtp/239.11.0.108:5140
 CCTV3,http://192.168.1.1:8888/rtp/239.11.0.101:5140
