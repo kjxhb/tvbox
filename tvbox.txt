@@ -14,7 +14,7 @@
             "name": " 🥞QIST仓库（推荐）"
         }, 
         {
-            "url": "https://fast.dzxhb.top/raw.githubusercontent.com/kjxhb/tvbox/main/tvbox.json",
+            "url": "https://box.dzxhb.top/tvbox.json",
             "name": "自用接口-github"
         },
         {
