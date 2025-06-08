@@ -10,11 +10,11 @@
             "name": " 🧀肥猫宝贝（推荐）"
         },                
        {
-            "url": "https://fast.dzxhb.top/raw.githubusercontent.com/qist/tvbox/master/0821.json",
+            "url": "https://fast.kjxhb.top/raw.githubusercontent.com/qist/tvbox/master/0821.json",
             "name": " 🥞QIST仓库（推荐）"
         }, 
         {
-            "url": "https://box.dzxhb.top/tvbox.json",
+            "url": "https://box.kjxhb.top/tvbox.json",
             "name": "自用接口-github"
         },
         {
