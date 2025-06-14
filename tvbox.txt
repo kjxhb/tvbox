@@ -15,7 +15,7 @@
         }, 
         {
             "url": "https://fast.kjxhb.top/raw.githubusercontent.com/kjxhb/tvbox/main/tvbox.json",
-            "name": "自用接口-github"
+            "name": "自用接口-fast"
         },
         {
             "url": "https://box.kjxhb.top/tvbox.json",
