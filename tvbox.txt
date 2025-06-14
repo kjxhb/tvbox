@@ -18,6 +18,10 @@
             "name": "自用接口-github"
         },
         {
+            "url": "https://box.kjxhb.top/tvbox.json",
+            "name": "自用接口-box"
+        },
+        {
             "url": "https://kjxhb.top:8443/tvbox/tvbox.json",
             "name": "自用接口-域名"
         },
