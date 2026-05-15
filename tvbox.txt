@@ -6,10 +6,14 @@
             "name": " 🥨饭太硬（推荐）"
         },
         {
-            "url": "http://feimao.pro",
+            "url": "http://肥猫.com/",
             "name": " 🧀肥猫宝贝（推荐）"
-        },                
-       {
+        },
+        {
+            "url": "http://http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": " 🧀王小二（推荐）"
+        },
+        {
             "url": "https://fast.kjxhb.top/raw.githubusercontent.com/qist/tvbox/master/0821.json",
             "name": " 🥞QIST仓库（推荐）"
         }, 
