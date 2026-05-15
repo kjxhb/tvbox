@@ -6,7 +6,7 @@
             "name": " 🥨饭太硬（推荐）"
         },
         {
-            "url": "http://肥猫.com",
+            "url": "http://feimao.pro",
             "name": " 🧀肥猫宝贝（推荐）"
         },                
        {
