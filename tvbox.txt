@@ -17,18 +17,18 @@
             "url": "https://fast.kjxhb.top/raw.githubusercontent.com/qist/tvbox/master/0821.json",
             "name": " 🥞QIST仓库（推荐）"
         }, 
-        {
-            "url": "https://fast.kjxhb.top/raw.githubusercontent.com/kjxhb/tvbox/main/tvbox.json",
-            "name": "自用接口-fast"
-        },
+        //{
+        //    "url": "https://fast.kjxhb.top/raw.githubusercontent.com/kjxhb/tvbox/main/tvbox.json",
+        //    "name": "自用接口-fast"
+        //},
         {
             "url": "http://box.kjxhb.top/tvbox.json",
             "name": "自用接口-box"
         },
-        {
-            "url": "https://kjxhb.top:8443/tvbox/tvbox.json",
-            "name": "自用接口-域名"
-        },
+        //{
+        //    "url": "https://kjxhb.top:8443/tvbox/tvbox.json",
+        //    "name": "自用接口-域名"
+        //},
         {
             "url": "https://192.168.1.1/tvbox/tvbox.json",
             "name": "自用接口-本地"
